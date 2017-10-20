@@ -1,0 +1,47 @@
+.box{
+	width: 1000px;
+	height: 499px;
+	position: absolute;
+	background-color: #85B977
+}
+
+.line{
+	width: 949px;
+	height: 450px;
+	border: 5px solid white;
+	position: absolute; left: 27px; top: 27px;
+}
+
+.arco1{
+	width: 100px;
+	height: 200px;
+	border: 5px solid white;
+	position: relative; left: 868px; top: 141px;
+}
+
+.arco2{
+	width: 100px;
+	height: 200px;
+	border: 5px solid white;
+	position: relative; left: 19px; top: -70px;
+}
+
+.circle{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	border: 5px solid white;
+	position: relative; left: 395px; top: -281px;
+}
+
+.ball1{
+	position: absolute; left: 115px; top: 153px;
+}
+
+.ball2{
+	position: absolute; left: 500px; top: 76px;
+}
+
+.ball3{
+	position: absolute; left: 845px; top: 317px;
+}
